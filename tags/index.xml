@@ -5,6 +5,25 @@
     <link>https://megh-khaire.github.io/tags/</link>
     <description>Recent content in Tags on Megh</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://megh-khaire.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Nov 2022 10:34:43 +0530</lastBuildDate><atom:link href="https://megh-khaire.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>post</title>
+      <link>https://megh-khaire.github.io/tags/post/</link>
+      <pubDate>Tue, 08 Nov 2022 10:34:43 +0530</pubDate>
+      
+      <guid>https://megh-khaire.github.io/tags/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project</title>
+      <link>https://megh-khaire.github.io/tags/project/</link>
+      <pubDate>Tue, 08 Nov 2022 10:34:43 +0530</pubDate>
+      
+      <guid>https://megh-khaire.github.io/tags/project/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

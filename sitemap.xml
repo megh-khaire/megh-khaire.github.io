@@ -2,17 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://megh-khaire.github.io/post/first/</loc>
+    <loc>https://megh-khaire.github.io/posts/first/</loc>
+    <lastmod>2022-11-08T10:34:43+05:30</lastmod>
+  </url><url>
+    <loc>https://megh-khaire.github.io/projects/first/</loc>
     <lastmod>2022-11-08T10:34:43+05:30</lastmod>
   </url><url>
     <loc>https://megh-khaire.github.io/</loc>
     <lastmod>2022-11-08T10:34:43+05:30</lastmod>
   </url><url>
-    <loc>https://megh-khaire.github.io/post/</loc>
+    <loc>https://megh-khaire.github.io/tags/post/</loc>
     <lastmod>2022-11-08T10:34:43+05:30</lastmod>
   </url><url>
-    <loc>https://megh-khaire.github.io/categories/</loc>
+    <loc>https://megh-khaire.github.io/posts/</loc>
+    <lastmod>2022-11-08T10:34:43+05:30</lastmod>
+  </url><url>
+    <loc>https://megh-khaire.github.io/tags/project/</loc>
+    <lastmod>2022-11-08T10:34:43+05:30</lastmod>
+  </url><url>
+    <loc>https://megh-khaire.github.io/projects/</loc>
+    <lastmod>2022-11-08T10:34:43+05:30</lastmod>
+  </url><url>
+    <loc>https://megh-khaire.github.io/series/ps/</loc>
+    <lastmod>2022-11-08T10:34:43+05:30</lastmod>
+  </url><url>
+    <loc>https://megh-khaire.github.io/series/</loc>
+    <lastmod>2022-11-08T10:34:43+05:30</lastmod>
   </url><url>
     <loc>https://megh-khaire.github.io/tags/</loc>
+    <lastmod>2022-11-08T10:34:43+05:30</lastmod>
+  </url><url>
+    <loc>https://megh-khaire.github.io/about/</loc>
   </url>
 </urlset>
