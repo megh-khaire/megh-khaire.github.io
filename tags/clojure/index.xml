@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>clojure on Megh</title>
+    <link>https://megh-khaire.github.io/tags/clojure/</link>
+    <description>Recent content in clojure on Megh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://megh-khaire.github.io/tags/clojure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Taking Clojure to the Dry Cleaners!</title>
+      <link>https://megh-khaire.github.io/posts/dry_cleaners/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://megh-khaire.github.io/posts/dry_cleaners/</guid>
+      <description>A few days ago I spent 30 minutes at a dry cleaning store. I am talking Pune&amp;rsquo;s biggest dry cleaning chain that has shops scattered all across the city. Going there as it is a tremendous waste of my time and if I wasn&amp;rsquo;t such a lazy buffoon I would rather wash clothes at home. With just three garments in my hand, I spent what seemed like forever at the counter.</description>
+    </item>
+    
+  </channel>
+</rss>
