@@ -1,0 +1,35 @@
+baseURL: https://megh-khaire.github.io/
+languageCode: en-us
+title: Megh
+theme: ["PaperMod"]
+
+params:
+    date_format: "02 Jan 2006"
+    defaultTheme: "dark"
+    disableThemeToggle: true
+    ShowReadingTime: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    showToc: true
+    TocOpen: false
+
+    cover:
+        hiddenInList: true
+        hiddenInSingle: false
+        responsiveImages: true
+
+    socialIcons:
+        - name: "github"
+          url: "https://github.com/megh-khaire"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/megh-khaire/"
+        - name: "X"
+          url: "https://x.com/meghkhaire"
+menu:
+  main:
+    - identifier: About
+      name: About
+      url: /about
+      weight: 10
+
+
