@@ -4,6 +4,7 @@ title: Megh
 theme: ["PaperMod"]
 
 params:
+    env: production
     date_format: "02 Jan 2006"
     defaultTheme: "dark"
     disableThemeToggle: true
@@ -25,11 +26,14 @@ params:
           url: "https://www.linkedin.com/in/megh-khaire/"
         - name: "X"
           url: "https://x.com/meghkhaire"
+
+    analytics:
+      google:
+        measurement_id: "G-HJY14PLTNZ"
+
 menu:
   main:
     - identifier: About
       name: About
       url: /about
       weight: 10
-
-
